@@ -1,6 +1,5 @@
 # kickstarter_project
 
-###  the project is seprate to those parts:
   * Part 1 : DataPreperation
   * Part 2 : TimingAnalyze
   * Part 3 : CategotiesAnalyze
